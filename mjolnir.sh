@@ -1,4 +1,5 @@
 #!/bin/bash
+# copied from https://github.com/rasta-mouse/Mjolnir
 
 ### text colours ###
 
